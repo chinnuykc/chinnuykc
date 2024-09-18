@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leela Naresh Manne K C</h1>
+<h1 align="center">Hi 👋, I'm Leela Naresh Manne </h1>
 <h3 align="center">Machine Learning & AI Enthusiast | Exploring the Future of Technology</h3>
 
 <p align="left">
